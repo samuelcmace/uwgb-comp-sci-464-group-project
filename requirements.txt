@@ -3,3 +3,4 @@ pandas
 pandasql
 scikit-learn
 matplotlib
+tensorflow
